@@ -1,3 +1,2 @@
 # gogo
-Learning Go programming language
-To reproduce https://github.com/jaeyeom/gogo
+Learning Go programming language to reproduce https://github.com/jaeyeom/gogo
